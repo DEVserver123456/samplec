@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int a=5,b=90,sum,sub,mul;
+int a=15,b=90,sum,sub,mul;
 /*printf("Enter the value of a\n");
 
 scanf("%d",&a);
